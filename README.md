@@ -1,10 +1,40 @@
-# Detecção de SPAM utilizando o algoritmo probabilístico Naïve Bayes
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/NK1HYLZ/pribido-spam.png" alt="pribido-spam" border="0"></a>
+</p>
+<h1 align="center">Detecção de SPAM </h>
+<h2 align="center">Utilizando o algoritmo probabilístico Naïve Bayes</h>
 
-Este repositório tem como objetivo, armazenar o código de análise e classificação do Dataset "SMS Spam Collection", disponível no Repositório de Machine Learning da UCI.<br>
-A classificação deste, é realizada através do pré-processamento de texto, conversão de texto para números (através do conceito de bag of words) e posterior aplicação do algoritmo Naïve Bayes.<br>
-Para consultar o  código implementado, abrir o arquivo`deteccao_spam_naive_bayes.ipynb`.
+## Project Status
+✅ Concluído
+
+## Table of Contents:
+
+- [Objective](#Objective)
+- [Process](#process)
+- [Complemento](#Complemento)
+- [Author](#Author)
+
+## Objective
+Este repositório tem como objetivo, armazenar o código de análise e classificação do Dataset "SMS Spam Collection", disponível no Repositório de Machine Learning da UCI. <br>
+Para consultar o código implementado, abrir o arquivo `deteccao_spam_naive_bayes.ipynb`.</a>.
 
 
-<br>
-Este trabalho, foi desenvolvido e explorado no artigo submetido para avaliação, na matéria PEL202 - Fundamentos de Inteligência Artificial.<br>
+## Process
+### Implementação do Naïve Bayes passo-a-passo através dos conceitos:
+1. Carregamento do dataset <a href="https://archive.ics.uci.edu/ml/datasets/sms+spam+collection">SMS Spam Collection</a>.
+2. Pré-processamento do texto;
+3. Bag of Words;
+4. Implementação do algoritmo Naïve Bayes passo-a-passo manualmente;
+5. Análise dos resultados através das métricas.
+
+### Implementação o Naïve Bayes via biblioteca MultinomialNB:
+1. Carregamento do dataset <a href="https://archive.ics.uci.edu/ml/datasets/sms+spam+collection">SMS Spam Collection</a>.
+2. Pré-processamento do texto;
+4. Pipeline (bag of words + transormação de matriz + MultinomialNB);
+5. Análise dos resultados através das métricas.
+
+## Complemento
+O código desenvolvido neste repositório, foi construído para avaliação na matéria PEL202 - Fundamentos de Inteligência Artificial, do Mestrado em Engenharia Elétrica - FEI.
+
+## Author
 Aluna Letícia Fossato - RA 120307-4
