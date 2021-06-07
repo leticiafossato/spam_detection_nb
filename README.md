@@ -9,17 +9,17 @@
 
 ## Table of Contents:
 
-- [Objective](#Objective)
-- [Process](#process)
+- [Objetivo](#Objetivo)
+- [Processo](#processo)
 - [Complemento](#Complemento)
-- [Author](#Author)
+- [Autora](#Autora)
 
-## Objective
+## Objetivo
 Este repositório tem como objetivo, armazenar o código de análise e classificação do Dataset "SMS Spam Collection", disponível no Repositório de Machine Learning da UCI. <br>
 Para consultar o código implementado, abrir o arquivo `deteccao_spam_naive_bayes.ipynb`.</a>.
 
 
-## Process
+## Processo
 ### Implementação do Naïve Bayes passo-a-passo através dos conceitos:
 1. Carregamento do dataset <a href="https://archive.ics.uci.edu/ml/datasets/sms+spam+collection">SMS Spam Collection</a>.
 2. Pré-processamento do texto;
@@ -36,5 +36,5 @@ Para consultar o código implementado, abrir o arquivo `deteccao_spam_naive_baye
 ## Complemento
 O código desenvolvido neste repositório, foi construído para avaliação na matéria PEL202 - Fundamentos de Inteligência Artificial, do Mestrado em Engenharia Elétrica - FEI.
 
-## Author
+## Autora
 Aluna Letícia Fossato - RA 120307-4
