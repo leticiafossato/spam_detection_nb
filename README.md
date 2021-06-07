@@ -4,10 +4,10 @@
 <h1 align="center">Detecção de SPAM </h>
 <h2 align="center">Utilizando o algoritmo probabilístico Naïve Bayes</h>
 
-## Project Status
+## Status do Projeto
 ✅ Concluído
 
-## Table of Contents:
+## Sumário:
 
 - [Objetivo](#Objetivo)
 - [Processo](#processo)
