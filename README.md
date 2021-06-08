@@ -15,8 +15,8 @@
 - [Autora](#Autora)
 
 ## Objetivo
-Este repositório tem como objetivo, armazenar o código de análise e classificação do Dataset "SMS Spam Collection", disponível no Repositório de Machine Learning da UCI. <br>
-Para consultar o código implementado, abrir o arquivo `deteccao_spam_naive_bayes.ipynb`.</a>.
+Este repositório tem como objetivo o armazenamento do código desenvolvido para análise e classificação do Dataset "SMS Spam Collection", disponível no Repositório de Machine Learning da UCI. <br>
+Para consultar o código implementado, abrir o arquivo `deteccao_spam_naive_bayes.ipynb`.</a>
 
 
 ## Processo
